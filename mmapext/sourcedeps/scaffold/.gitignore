@@ -1,0 +1,9 @@
+*.a
+*.o
+*.so
+*.pyc
+tests/scaffold.h
+scaffold.h
+_build
+.vscode/
+build/
